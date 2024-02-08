@@ -666,7 +666,7 @@ video {
 }
 
 .font-serif {
-  font-family: young-serif, serif;
+  font-family: Young Serif, serif;
 }
 
 .text-5xl {
@@ -727,7 +727,7 @@ video {
 
   font-weight: 400;
 
-  src: url("./fonts/outfit-v11-latin-regular.woff2") format("woff2");
+  src: url("../fonts/outfit-v11-latin-regular.woff2") format("woff2");
 
   /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
